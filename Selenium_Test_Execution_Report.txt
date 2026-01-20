@@ -1,0 +1,48 @@
+﻿CODTECH INTERNSHIP
+TASK – TEST AUTOMATION USING SELENIUM
+
+
+1. INTRODUCTION
+This task focuses on automating the login and navigation functionality of a sample web application using Selenium WebDriver.
+
+
+2. OBJECTIVE
+The objective of this task is to:
+- Automate login functionality
+- Validate successful authentication
+- Automate page navigation
+- Generate execution proof
+
+
+3. TOOLS USED
+- Selenium WebDriver
+- Python
+- Chrome Browser
+- ChromeDriver
+
+
+4. TEST ENVIRONMENT
+- Operating System: Linux
+- Browser: Google Chrome
+- Automation Tool: Selenium
+
+
+5. TEST SCENARIOS
+- Verify login with valid credentials
+- Verify successful navigation after login
+
+
+6. TEST EXECUTION
+The Selenium script was executed successfully. The script automated user input, login action, page navigation, and screenshot capture.
+
+
+7. TEST RESULT
+Login functionality: PASSED  
+Navigation functionality: PASSED  
+
+
+8. CONCLUSION
+The automation testing task was completed successfully using Selenium WebDriver. The application behaved as expected under test conditions.
+
+
+TASK COMPLETED SUCCESSFULLY
