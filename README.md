@@ -76,3 +76,7 @@ Close the browser
 Conclusion:
 
 The Selenium automation script successfully tested the login and navigation functionality of the sample web application.
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f21f34aa-42ec-4a01-857e-213d61e6477b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/38776bfb-0572-4c62-a2df-0db137429ba6" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2ee884e7-77ac-4c9a-92c5-d66945bfedd2" />
