@@ -1,4 +1,19 @@
-Task Name: Test Automation Using Selenium
+#Task 1-Test Automation Using Selenium
+
+*Company:*CODTECH IT SOLUTIONS
+
+*Intern Name:*Kandimalla Niharika
+
+*Intern Id:*CTIS2057
+
+*Domain:*Software Testing
+
+*Duration:*4 Weeks
+
+*Mentor:*Neela Santosh
+
+PROJECT TITLE: Test Automation Using Selenium
+
 Objective: Automate the testing of a sample web application’s login and navigation functionality using Selenium WebDriver.
 
 Project Description:
